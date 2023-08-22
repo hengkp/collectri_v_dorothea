@@ -1,0 +1,27 @@
+name: decoupler_heng
+channels:
+  - anaconda
+  - bioconda
+  - conda-forge
+  - defaults
+  - defaults
+dependencies:
+  - python=3.10
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - pip
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - seaborn
+  - tqdm
+  - pip:
+    - adjustText
+    - decoupler
+    - omnipath
+    - pydeseq2
+    - scanpy
+    - scimap
+    - wget
