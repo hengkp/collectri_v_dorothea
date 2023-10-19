@@ -1,5 +1,6 @@
 python==3.10
 matplotlib
+matplotlib-venn
 notebook
 numpy
 pandas
