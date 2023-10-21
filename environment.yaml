@@ -19,6 +19,7 @@ dependencies:
   - pip:
     - adjustText
     - decoupler
+    - ipywidgets
     - matplotlib-venn
     - omnipath
     - pydeseq2

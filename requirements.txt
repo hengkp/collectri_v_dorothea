@@ -12,6 +12,7 @@ seaborn
 tqdm
 adjustText
 decoupler
+ipywidgets
 omnipath
 pydeseq2
 scanpy
