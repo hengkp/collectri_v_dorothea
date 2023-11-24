@@ -1,0 +1,2 @@
+"source","target","source_genesymbol","target_genesymbol","is_directed","is_stimulation","is_inhibition","consensus_direction","consensus_stimulation","consensus_inhibition","extra_attrs","sources","references","curation_effort","n_references","n_resources","sign_decision"
+"P01106","O14746","MYC","TERT",1,1,0,1,1,0,
